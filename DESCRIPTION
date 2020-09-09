@@ -1,0 +1,12 @@
+Package: bmm
+Type: Package
+Title: Binomial mixture model to incorporate heterogeneity into association analysis
+Version: 0.1.0
+Author: Subrata Paul
+Maintainer: Subrata Paul <subrata.paul@ucdenver.edu>
+Description: This package contains functions to simulate case-control data with genotype and ancestry
+    clusters, fit EM algorithm on simulated data and produce figures.
+License: GPL
+Imports: ggplot2, doBy, ggpubr, numDeriv, reshape2, gridExtra
+Encoding: UTF-8
+LazyData: true

@@ -1,0 +1,5 @@
+simulation_k01.rda filter=lfs diff=lfs merge=lfs -text
+simulation_k02.rda filter=lfs diff=lfs merge=lfs -text
+simulation_k05.rda filter=lfs diff=lfs merge=lfs -text
+simulation_k10.rda filter=lfs diff=lfs merge=lfs -text
+*.rda filter=lfs diff=lfs merge=lfs -text

@@ -1,0 +1,7 @@
+exportPattern("^[[:alpha:]]+")
+
+import(doBy)
+import(ggplot2)
+import(ggpubr)
+import(numDeriv)
+import(reshape2)
